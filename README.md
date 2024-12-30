@@ -25,7 +25,7 @@ This project implements a dynamic backend API for querying NoSQL databases like 
 
 ### **Step 1: Clone the Repository**
 ```bash
-git clone https://github.com/deepikatalawar/dynamic-api-nosql-query.git
+git clone https://github.com/your-repo/dynamic-api-nosql-query.git
 cd dynamic-api-nosql-query
 ```
 
