@@ -1,0 +1,2 @@
+2024-12-30 00:17:57.968 | INFO     | app.utils.logging:log_request:6 - Endpoint: /query, Payload: {'collection': 'users', 'filter': {'age': {'$gte': 18}}, 'projection': {'name': 1, 'age': 1}, 'limit': 10, 'skip': 0, 'sort': {'age': -1}, 'aggregation': None}
+2024-12-30 00:18:30.924 | INFO     | app.utils.logging:log_request:6 - Endpoint: /query, Payload: {'collection': 'users', 'filter': {'age': {'$gte': 18}}, 'projection': {'name': 1, 'age': 1}, 'limit': 10, 'skip': 0, 'sort': {'age': -1}, 'aggregation': None}
